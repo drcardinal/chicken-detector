@@ -1,5 +1,6 @@
 # 🐔 Chicken Detector & Behavior Monitoring Dashboard
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/c28b400d-b5d9-4435-8f0d-154718f65a6b" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/c4c83af3-657d-423d-b288-3a16a582a96a" />
+
 
 This Streamlit-powered computer vision app detects, tracks, and analyzes the behavior of individual chickens in video footage using two custom-trained YOLOv8 models and a feature re-identification (ReID) pipeline.
 
