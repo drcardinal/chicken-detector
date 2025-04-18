@@ -1,2 +1,6 @@
-ultralytics
-streamlit# rebuild trigger
+streamlit
+opencv-python-headless==4.8.0.76
+ultralytics==8.0.226
+torch
+numpy==1.26.4
+Pillow
